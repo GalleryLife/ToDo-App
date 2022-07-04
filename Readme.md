@@ -4,7 +4,7 @@
 
 - Clone this repo
 - npm install
-- npm run start
+- npm run dev
 
 <h3>In additional ToDo, you can add tasks, delete, change, is standard validation for a null string</h3>
 
